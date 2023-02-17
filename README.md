@@ -54,19 +54,19 @@ chrome配置：
 
 1.创建新的聊天记录
 
-![](\image\效果图2.png)
+![](/image/效果图2.png)
 
 2.发送一条消息
 
-![](\image\效果图4.png)
+![](/image/效果图4.png)
 
 3.接收最后一条回复
 
-![](\image\效果图5.png)
+![](/image/效果图5.png)
 
 4.chatgpt页面结果
 
-![](\image\效果图6.png)
+![](/image/效果图6.png)
 
 
 
